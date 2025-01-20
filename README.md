@@ -1,4 +1,4 @@
-=== Javet issue #446 ===
+## [Javet issue #446](https://github.com/caoccao/Javet/issues/446)
 
 What is output by this code:
 
